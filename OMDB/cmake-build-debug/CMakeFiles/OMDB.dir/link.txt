@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/OMDB.dir/main.cpp.o CMakeFiles/OMDB.dir/Movie.cpp.o CMakeFiles/OMDB.dir/MovieDatabase.cpp.o  -o OMDB.exe -Wl,--out-implib,libOMDB.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

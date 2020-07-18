@@ -1,0 +1,58 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/james/Documents/CMP Course/Year 2/Programming 2/MovieDB Project/OMDB/Movie.cpp
+Movie.h
+/cygdrive/c/Users/james/Documents/CMP Course/Year 2/Programming 2/MovieDB Project/OMDB/Movie.h
+
+/cygdrive/c/Users/james/Documents/CMP Course/Year 2/Programming 2/MovieDB Project/OMDB/Movie.h
+iostream
+-
+iomanip
+-
+fstream
+-
+cstring
+-
+
+/cygdrive/c/Users/james/Documents/CMP Course/Year 2/Programming 2/MovieDB Project/OMDB/MovieDatabase.cpp
+Movie.h
+/cygdrive/c/Users/james/Documents/CMP Course/Year 2/Programming 2/MovieDB Project/OMDB/Movie.h
+MovieDatabase.h
+/cygdrive/c/Users/james/Documents/CMP Course/Year 2/Programming 2/MovieDB Project/OMDB/MovieDatabase.h
+
+/cygdrive/c/Users/james/Documents/CMP Course/Year 2/Programming 2/MovieDB Project/OMDB/MovieDatabase.h
+vector
+-
+iostream
+-
+fstream
+-
+string
+-
+stdlib.h
+-
+algorithm
+-
+
+/cygdrive/c/Users/james/Documents/CMP Course/Year 2/Programming 2/MovieDB Project/OMDB/main.cpp
+iostream
+-
+string.h
+-
+sstream
+-
+cstdlib
+-
+windows.h
+-
+Movie.h
+/cygdrive/c/Users/james/Documents/CMP Course/Year 2/Programming 2/MovieDB Project/OMDB/Movie.h
+MovieDatabase.h
+/cygdrive/c/Users/james/Documents/CMP Course/Year 2/Programming 2/MovieDB Project/OMDB/MovieDatabase.h
+
